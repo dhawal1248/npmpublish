@@ -1,0 +1,22 @@
+{
+  "name": "@dhawal-rudder/npmpublish",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhawal1248/npmpublish.git"
+  },
+  "author": "\"dhawal\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhawal1248/npmpublish/issues"
+  },
+  "homepage": "https://github.com/dhawal1248/npmpublish#readme",
+  "keywords": [
+    "\"x\""
+  ]
+}
